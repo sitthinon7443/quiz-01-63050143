@@ -1,0 +1,64 @@
+
+body{
+margin: 0;
+background-image:url("ภาพงานจันทร์เช้า/S__17924110.jpg");
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-right:100px;
+    padding-left: 100px;
+    background-color: rgba(97, 3, 3, 0.647);
+}
+.logo{
+   display: flex;
+   align-items: center;
+   gap: 20px;
+   color: rgb(252, 250, 250);
+}
+.logo-lass{
+    display: flex;
+    align-self: center;
+    gap:20px;
+    color: rgb(255, 255, 255);
+}
+
+.banner{
+height: 200px;
+
+}
+.bannerform{
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.582);
+    width: 500px;
+    color: #fffdfd;
+    text-align: center;
+    padding: 50px;
+    padding-left: 20px;
+    
+   
+}
+.bannerform > input{
+
+    width: 100px;
+}
+
+.banner1-img{
+    margin: 0 auto;
+    align-self: center;
+    background-color: rgba(239, 236, 236, 0.597);
+    text-align: center;
+}
+.character{
+    margin: 0;
+    background-image:url("ภาพงานจันทร์เช้า/S__17924105.jpg");
+}
+.character1  {
+    
+    display: flex;
+    align-items: center;
+    gap: 500px;
+    color: rgb(243, 236, 236);
+}
